@@ -1,0 +1,39 @@
+.container {
+    position: relative;
+    height: 35px;
+    width: 100px;
+}
+
+.heart {
+    height: 30px;
+    width: 30px;
+    z-index: 1;
+    position:absolute;
+    left:0px;
+    top:5px;
+}
+
+.number {
+    top:3px;
+    left:15px;
+    text-align: center;
+    border: 3px solid white;
+    color:white;
+    font-family: 'Quicksand', Arial, Helvetica, sans-serif;
+    height:15px;
+    width:15px;
+    font-size: 11px;
+    font-weight: 600;
+    background-color: #3BB77E;
+    border-radius: 100%;
+    position:absolute;
+    z-index: 2;
+}
+
+.text {
+    font-family: 'Quicksand', Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    position:absolute;
+    left:40px;
+    top:7px;
+}
