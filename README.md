@@ -19,9 +19,9 @@ This project is an excuse to learn modern web frameworks.
 
 #### Header components
 
-- [ ] Logo
-- [ ] Search
-- [ ] Wishlist
+- [x] Logo
+- [x] Search
+- [x] Wishlist
 - [ ] Cart
 - [ ] Profile
 
